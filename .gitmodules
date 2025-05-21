@@ -4,3 +4,6 @@
 [submodule "client-service"]
 	path = client-service
 	url = https://github.com/shimshon-levi/client-service.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/shimshon-levi/frontend.git
