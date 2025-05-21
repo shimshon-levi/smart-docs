@@ -7,3 +7,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/shimshon-levi/frontend.git
+[submodule "document-service"]
+	path = document-service
+	url = https://github.com/shimshon-levi/document-service.git
